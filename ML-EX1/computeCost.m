@@ -21,4 +21,4 @@ J = (1/(2*m))*error;
 
 end
 
-%end of program
+% end of program
