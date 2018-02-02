@@ -1,7 +1,7 @@
 # Coursera Machine Learning Course Summary
 This is a repository of my Machine Learning Assignments submitted for Andrew Ng's ML Coursera Course. I highly recommend this course to all individuals interested in kick-starting their understanding of Machine Learning programming! 
 
-EX1 - Linear Regression
+EX1 - Linear Regression \n
 In this exercise, I implemented linear regression on a dataset. 
 
 EX2 - Logistic Regression
