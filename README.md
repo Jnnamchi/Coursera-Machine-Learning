@@ -16,7 +16,7 @@ In this exercise, I implemented the backpropagation algorithm for neural network
 EX5 - Regularized Linear Regression and Bias v.s. Variance
 In this exercise, I implemented regularized linear regression and used it to study models with different bias-variance properties.
 
-EX6 -Support Vector Machines
+EX6 - Support Vector Machines
 In this exercise, I used support vector machines (SVMs) to build a spam classifier.
 
 EX7 - K-means Clustering and Principal Component Analysis
